@@ -1,10 +1,11 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Roshith R]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [September 1, Saturday, 2018].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### DAY1 - SEP 1st 2018
+
+Started the first day of 100daysofcode doing Freecodecamp challenges. Had some basic sections remaining from 'Introduction to HTML & HTML5' and 'Basic CSS' which was completed. After that started the "Applied Visual Design' section.
 
 ### R1D2
