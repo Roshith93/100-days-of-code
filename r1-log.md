@@ -15,3 +15,7 @@ The log of my #100DaysOfCode challenge. Started on [September 1, Saturday, 2018]
 ### DAY3 - SEP 3nd 2018
 
 **Today's Progress**: I have completed the challenges which were remaining in the 'Applied Visual Design'. After that, I have started 'Applied Accessibility' were I have learned how to make screen readers easily to read on pages. The final thing is that each page should have only(and one only) h1 element, which is the main subject of that page content. This is very helpful for search engines to understand the topic of the page.
+
+### DAY4 - SEP 4th 2018
+
+**Today's Progress** I have completed 'Applied Accessibility' challenges today. Tomorrow planning to start 'Responsive Web Desing principles'. 
