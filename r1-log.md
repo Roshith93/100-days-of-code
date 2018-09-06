@@ -19,3 +19,9 @@ The log of my #100DaysOfCode challenge. Started on [September 1, Saturday, 2018]
 ### DAY4 - SEP 4th 2018
 
 **Today's Progress** I have completed 'Applied Accessibility' challenges today. Tomorrow planning to start 'Responsive Web Desing principles'. 
+
+
+### DAY5 - SEP 6th 2018
+
+**Today's Progress** I have completed 'Responsive Web Design Principles' and CSS Flexbox today. Learned about media queries and understood a new way to design responsive elements within a container that to be automatically arranged depending upon screen size.
+
