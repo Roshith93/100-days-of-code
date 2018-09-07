@@ -25,3 +25,6 @@ The log of my #100DaysOfCode challenge. Started on [September 1, Saturday, 2018]
 
 **Today's Progress** I have completed 'Responsive Web Design Principles' and CSS Flexbox today. Learned about media queries and understood a new way to design responsive elements within a container that to be automatically arranged depending upon screen size.
 
+### DAY6 - SEP 7th 2018
+
+**Today's Progress** Was doing some challenges from "Basic Javascript". Learned about Ternary operators clearly. 
