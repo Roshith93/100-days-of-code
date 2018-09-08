@@ -28,3 +28,8 @@ The log of my #100DaysOfCode challenge. Started on [September 1, Saturday, 2018]
 ### DAY6 - SEP 7th 2018
 
 **Today's Progress** Was doing some challenges from "Basic Javascript". Learned about Ternary operators clearly. 
+
+
+### DAY7 - SEP 8th 2018
+
+**Today's Progress** Day 7: I have tried to do a calculator using React. 60% of the app is completed. Expecting it to be completed by tomorrow
