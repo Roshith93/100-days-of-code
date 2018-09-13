@@ -32,4 +32,24 @@ The log of my #100DaysOfCode challenge. Started on [September 1, Saturday, 2018]
 
 ### DAY7 - SEP 8th 2018
 
-**Today's Progress** Day 7: I have tried to do a calculator using React. 60% of the app is completed. Expecting it to be completed by tomorrow
+**Today's Progress**  I have tried to do a calculator using React. 60% of the app is completed. Expecting it to be completed by tomorrow
+
+### DAY8 - SEP 9th 2018
+
+**Today's Progress** Trying to complete the React calculator. Since I am a beginner it is taking time.
+
+### DAY9 - SEP 10th 2018
+
+**Today's Progress** Horray!!!. Finally completed the react calculator app.
+
+### DAY10 - SEP 11th 2018
+
+**Today's Progress** I was doing React's state and stateless components.Learned how to use state to make dynamic interactive application.
+
+### DAY11 - SEP 12th 2018
+
+**Today's Progress** Learned how to use prop-types in the application. Using prop-types, we can validate the data which is received.
+
+### DAY12 - SEP 13th 2018
+
+**Today's Progress** Today learned about the controlled components. Unlike DOM elements HTML form elemts work differntly in React. Forms are handled by componene rather than DOM and is implemented using controlled components.Elements like <input> and <textarea> maintain their own state, which they update when the input value changes.
