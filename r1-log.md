@@ -52,4 +52,8 @@ The log of my #100DaysOfCode challenge. Started on [September 1, Saturday, 2018]
 
 ### DAY12 - SEP 13th 2018
 
-**Today's Progress** Today learned about the controlled components. Unlike DOM elements HTML form elemts work differntly in React. Forms are handled by componene rather than DOM and is implemented using controlled components.Elements like <input> and <textarea> maintain their own state, which they update when the input value changes.
+**Today's Progress** Learned ES6 from @freeCodeCamp . Got a clear idea on how var, let and const keywords work. Also learned how to use arrow functions. 
+
+### DAY13 - SEP 14th 2018
+
+**Today's Progress** Continued ES6 challenges. Learned how to freeze object to prevent mutation. Also learned to set default paramenters for the functions. Then learned about exports and imports. There are twotypes of exports such as default exports and named exports. Then learned about the classes, propeties and  methods and learned how to describe constructor in ES6 and ES7 way. Later learned about getter and setter function.
