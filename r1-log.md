@@ -57,3 +57,8 @@ The log of my #100DaysOfCode challenge. Started on [September 1, Saturday, 2018]
 ### DAY13 - SEP 14th 2018
 
 **Today's Progress** Continued ES6 challenges. Learned how to freeze object to prevent mutation. Also learned to set default paramenters for the functions. Then learned about exports and imports. There are twotypes of exports such as default exports and named exports. Then learned about the classes, propeties and  methods and learned how to describe constructor in ES6 and ES7 way. Later learned about getter and setter function.
+
+
+### DAY14 - SEP 15th 2018
+
+**Today's Progress** Learned about spread and rest operator.Spread used to split up array elements or object properties. While rest used to merge a list of unction arguments into an array,ie , we use it in a function argument list. Next learned about Destructuring. It easily extracts array elements or object properties and store them in a variable.. Then learned about what is reference and primitive. primitive types are string , boolean, and number where reference are basically objects and array's.
