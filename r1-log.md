@@ -62,3 +62,8 @@ The log of my #100DaysOfCode challenge. Started on [September 1, Saturday, 2018]
 ### DAY14 - SEP 15th 2018
 
 **Today's Progress** Learned about spread and rest operator.Spread used to split up array elements or object properties. While rest used to merge a list of unction arguments into an array,ie , we use it in a function argument list. Next learned about Destructuring. It easily extracts array elements or object properties and store them in a variable.. Then learned about what is reference and primitive. primitive types are string , boolean, and number where reference are basically objects and array's.
+
+
+### DAY15 - SEP 16th 2018
+
+**Today's Progress** Learned about Reacts Functional components clearly.Understood the folder structure of create-react-app
