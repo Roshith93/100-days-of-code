@@ -67,3 +67,11 @@ The log of my #100DaysOfCode challenge. Started on [September 1, Saturday, 2018]
 ### DAY15 - SEP 16th 2018
 
 **Today's Progress** Learned about Reacts Functional components clearly.Understood the folder structure of create-react-app
+
+
+### DAY16 - SEP 17th 2018
+
+**Today's Progress** Learned about Array helper methods like Map , forEach and filter. 
+
+
+
