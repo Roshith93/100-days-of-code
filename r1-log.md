@@ -73,5 +73,7 @@ The log of my #100DaysOfCode challenge. Started on [September 1, Saturday, 2018]
 
 **Today's Progress** Learned about Array helper methods like Map , forEach and filter. 
 
+### DAY17 - SEP 18th 2018
 
-
+**Today's Progress** Learned more about React's props.
+passing props into a stateless function, passign array as an function, how to use default props, override default props, also using PropTypes to define the props we expect. Props in the React is 100% clear
