@@ -77,3 +77,8 @@ The log of my #100DaysOfCode challenge. Started on [September 1, Saturday, 2018]
 
 **Today's Progress** Learned more about React's props.
 passing props into a stateless function, passin array as an props, how to use default props, override default props, also using PropTypes to define the props we expect. Props in the React is 100% clear
+
+
+### DAY18 - SEP 19th 2018
+
+**Today's Progress** Learned how to pass method references between react components. Also learned about two way  binding.
