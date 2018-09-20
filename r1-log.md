@@ -82,3 +82,8 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY18 - SEP 19th 2018
 
 **Today's Progress** Learned how to pass method references between react components. Also learned about two way  binding.
+
+
+### DAY19- SEP 20th 2018
+
+**Today's Progress**  Learned how to render states in userinterface. Also learned to update the state using this.setState({}) 
