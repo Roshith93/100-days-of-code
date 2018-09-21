@@ -87,3 +87,8 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY19- SEP 20th 2018
 
 **Today's Progress**  Learned how to render states in userinterface. Also learned to update the state using this.setState({}) 
+
+
+### DAY20- SEP 21th 2018
+
+**Today's Progress** Learned about React Component Architecture and took detailed notes from Learned about React Component Architecture and took detailed notes from 
