@@ -92,3 +92,8 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY20- SEP 21th 2018
 
 **Today's Progress** Learned about React Component Architecture and took detailed notes from Learned about React Component Architecture and took detailed notes from 
+
+
+### DAY21- SEP 22th 2018
+
+**Today's Progress** Learned about how to render contents and also to handle contents dynamically
