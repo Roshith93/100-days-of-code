@@ -97,3 +97,11 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY21- SEP 22th 2018
 
 **Today's Progress** Learned about how to render contents and also to handle contents dynamically
+
+### DAY22- SEP 23th 2018
+
+**Today's Progress** Learned about the states and updating the state immutably
+
+### DAY23- SEP 24th 2018
+
+**Today's Progress** Learned about the Lists and Keys in React and understood how it is helpful to update the Virtual DOM.
