@@ -105,3 +105,11 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY23- SEP 24th 2018
 
 **Today's Progress** Learned about the Lists and Keys in React and understood how it is helpful to update the Virtual DOM.
+
+### DAY24- SEP 25th 2018 
+
+**Today's Progress** Learned about clousers. understood how the outer and inner functions works.
+
+### DAY25- SEP 26th 2018
+
+**Today's Progress** Completed some exercies on eventhandlers and two-way-data binding.
