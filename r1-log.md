@@ -113,3 +113,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY25- SEP 26th 2018
 
 **Today's Progress** Completed some exercies on eventhandlers and two-way-data binding.
+
+### DAY26- SEP 27th 2018
+
+**Today's Progress** Did styling the react components and elements using Radium and also learned how to debug react apps using dev tools and sourcemaps. Also learned about Error Boundaries where react components catch javascript errors. 
