@@ -117,3 +117,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY26- SEP 27th 2018
 
 **Today's Progress** Did styling the react components and elements using Radium and also learned how to debug react apps using dev tools and sourcemaps. Also learned about Error Boundaries where react components catch javascript errors. 
+
+### DAY27- SEP 28th 2018
+
+**Today's Progress**  Using react, I tried to fetch some objects and displayed it as per the instructions.
