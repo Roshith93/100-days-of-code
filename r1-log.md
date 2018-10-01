@@ -121,3 +121,19 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY27- SEP 28th 2018
 
 **Today's Progress**  Using react, I tried to fetch some objects and displayed it as per the instructions.
+
+
+
+### DAY28- SEP 29th 2018
+
+**Today's Progress** - Learned about components life cycles like componentDidMount and componentWillUnmount
+
+
+### DAY29- SEP 30th 2018
+
+**Today's Progress**  - learned about more components life cycles
+
+
+### DAY30- OCT 01th 2018
+
+**Today's Progress** - learned about higher order components. want to learn more about it.
