@@ -137,3 +137,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY30- OCT 01th 2018
 
 **Today's Progress** - learned about higher order components. want to learn more about it.
+
+### DAY31- OCT 02th 2018
+
+**Today's Progress** - learned more about higher order components. Read more from this article -https://levelup.gitconnected.com/understanding-react-higher-order-components-by-example-95e8c47c8006
