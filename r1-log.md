@@ -148,4 +148,8 @@ passing props into a stateless function, passin array as an props, how to use de
 
 ### DAY33- OCT 04th 2018
 
-**Today's Progress**  Learned about the difference between Components and PureComonents.
+**Today's Progress**  Learned about the difference between Components and PureComponents.
+
+### DAY34- OCT 05th 2018
+ 
+**Today's Progress** Learned different phases of React components like Initialization, mounting, updation and unmounting
