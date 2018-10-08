@@ -153,3 +153,15 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY34- OCT 05th 2018
  
 **Today's Progress** Learned different phases of React components like Initialization, mounting, updation and unmounting
+
+### DAY35- OCT 06th 2018
+ 
+**Today's Progress** - Learned about how to return adjacent elements in react
+
+### DAY36- OCT 07th 2018
+ 
+**Today's Progress** learned how to create higher order components
+
+### DAY37- OCT 09th 2018
+ 
+**Today's Progress** learned about react router
