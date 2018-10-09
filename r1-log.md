@@ -162,6 +162,10 @@ passing props into a stateless function, passin array as an props, how to use de
  
 **Today's Progress** learned how to create higher order components
 
-### DAY37- OCT 09th 2018
+### DAY37- OCT 08th 2018
  
 **Today's Progress** learned about react router
+
+### DAY38- OCT 09th 2018
+ 
+**Today's Progress** started doing a react project where it calls the API and display some data
