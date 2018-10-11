@@ -174,3 +174,6 @@ passing props into a stateless function, passin array as an props, how to use de
  
 **Today's Progress** started refractoring the react  project which I am working.
 
+### DAY40- OCT 11th 2018
+ 
+**Today's Progress**  started working on a react project. fetched some API's in componentDidMount(). Also started learning Redux from FCC. Learned how to create a store in redux
