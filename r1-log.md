@@ -181,3 +181,11 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY41- OCT 12th 2018
  
 **Today's Progress**  Continued with redux. Came to know how tough it is. Learned about store, actions, reducers, subscription model. Have to practice many times to understand these basic things clearly.
+
+### DAY42- OCT 13th 2018
+ 
+**Today's Progress**  attended react meetup. So could not code much. But really enjoyed the meetup. 
+
+### DAY43- OCT 14th 2018
+ 
+**Today's Progress**   learned how to connect react to redux and also to connect store to react
