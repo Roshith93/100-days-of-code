@@ -189,3 +189,11 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY43- OCT 14th 2018
  
 **Today's Progress**   learned how to connect react to redux and also to connect store to react
+
+### DAY44- OCT 15th 2018
+ 
+**Today's Progress** Learned about protected routes in react.
+
+### DAY45- OCT 16th 2018
+ 
+**Today's Progress** continued with the react router.
