@@ -197,3 +197,11 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY45- OCT 16th 2018
  
 **Today's Progress** continued with the react router.
+
+### DAY46- OCT 18th 2018
+ 
+**Today's Progress** using react tried to fetch images from pixabay and displayed on the browser.
+
+### DAY47- OCT 19th 2018
+ 
+**Today's Progress** Made some changes on the project done on yesterday. Its almost about to complete.
