@@ -205,3 +205,15 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY47- OCT 19th 2018
  
 **Today's Progress** Made some changes on the project done on yesterday. Its almost about to complete.
+
+### DAY48- OCT 20th 2018
+ 
+**Today's Progress** Learned about links , routes ,switch, path vs exact path.
+
+### DAY49- OCT 21th 2018
+ 
+**Today's Progress** Learned about {withRouter} HOC, Absolute vs Relative paths
+
+### DAY50- OCT 22th 2018
+ 
+**Today's Progress** Learned about styling the active Routes.
