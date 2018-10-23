@@ -217,3 +217,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY50- OCT 22th 2018
  
 **Today's Progress** Learned about styling the active Routes.
+
+### DAY51- OCT 23th 2018
+ 
+**Today's Progress** signed up for HACKTOBERFEST 2018. made one pull request
