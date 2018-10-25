@@ -225,3 +225,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY52- OCT 24th 2018
  
 **Today's Progress**  Learned how to make protected routes in react. https://github.com/Roshith93/protected-path-routing 
+
+### DAY53- OCT 25th 2018
+ 
+**Today's Progress** Created a react form in which user enter the details which is displayed below instantly
