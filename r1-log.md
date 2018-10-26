@@ -229,3 +229,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY53- OCT 25th 2018
  
 **Today's Progress** Created a react form in which user enter the details which is displayed below instantly
+
+### DAY54- OCT 26th 2018
+ 
+**Today's Progress** Updated react form with material-ui. Also started creating a react app which does CRUD operation.
