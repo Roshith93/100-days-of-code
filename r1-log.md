@@ -233,3 +233,16 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY54- OCT 26th 2018
  
 **Today's Progress** Updated react form with material-ui. Also started creating a react app which does CRUD operation.
+
+### DAY55- OCT 27th 2018
+ 
+**Today's Progress** Watched React hooks live stream 
+
+### DAY56- OCT 28th 2018
+ 
+**Today's Progress** Gone through the hooks docs
+
+### DAY57- OCT 29th 2018
+ 
+**Today's Progress** Tried some hook examples
+
