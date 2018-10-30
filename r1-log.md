@@ -246,3 +246,7 @@ passing props into a stateless function, passin array as an props, how to use de
  
 **Today's Progress** Tried some hook examples
 
+### DAY58- OCT 30th 2018
+ 
+**Today's Progress** Learned about controlled/uncontrolled inputs and conditional rendering statergies in react 
+
