@@ -250,3 +250,7 @@ passing props into a stateless function, passin array as an props, how to use de
  
 **Today's Progress** Learned about controlled/uncontrolled inputs and conditional rendering statergies in react 
 
+### DAY59- OCT 31th 2018
+
+**Today's Progress** Learning component lifecycle methods. Will be continuing on tomorrow also.
+
