@@ -261,3 +261,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY61- NOV 2nd 2018
 
 **Today's Progress** Started React's new course from udemy.
+
+### DAY62- NOV 3nd 2018
+
+**Today's Progress** Learned about  Error boundaries which catch errors during rendering, in lifecycle methods, and in constructors of the whole tree below them.
