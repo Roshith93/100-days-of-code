@@ -265,3 +265,11 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY62- NOV 3nd 2018
 
 **Today's Progress** Learned about  Error boundaries which catch errors during rendering, in lifecycle methods, and in constructors of the whole tree below them.
+
+### DAY63- NOV 4nd 2018
+
+**Today's Progress** Learned about uncontrolled components and refs
+
+### DAY64- NOV 5nd 2018
+
+**Today's Progress** Learned about the component lifecycle method. Came to know about the depreciated lifecycle methods and newly added lifecycle methods. 
