@@ -273,3 +273,19 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY64- NOV 5nd 2018
 
 **Today's Progress** Learned about the component lifecycle method. Came to know about the depreciated lifecycle methods and newly added lifecycle methods. 
+
+### DAY65- NOV 6nd 2018
+
+**Today's Progress** Started new react project called Myreads: A book tracking app.
+
+### DAY66- NOV 7nd 2018
+
+**Today's Progress** Planned the App Layout, state, components etc... and implemented it.
+
+### DAY67- NOV 8nd 2018
+
+**Today's Progress** Going on with the project. But stuck in most of the places..
+
+### DAY68- NOV 15nd 2018
+
+**Today's Progress** Almost done with the 'MyRead' project. Have to start testing soon.
