@@ -293,3 +293,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY69- NOV 16nd 2018
 
 **Today's Progress** Did some refactoring on my code. I think one more day is needed to complete the entire project.
+
+### DAY70- NOV 17nd 2018
+
+**Today's Progress** Went to attend the react meetup which was held at Microsoft.
