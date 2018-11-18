@@ -297,3 +297,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY70- NOV 17nd 2018
 
 **Today's Progress** Went to attend the react meetup which was held at Microsoft.
+
+### DAY71- NOV 18nd 2018
+
+**Today's Progress** Came to now about @WakaTime today. Now able to track the exact timing of coding. Coded today for 4+ hrs
