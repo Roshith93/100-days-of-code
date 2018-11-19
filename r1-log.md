@@ -301,3 +301,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY71- NOV 18nd 2018
 
 **Today's Progress** Came to now about @WakaTime today. Now able to track the exact timing of coding. Coded today for 4+ hrs
+
+### DAY72- NOV 19nd 2018
+
+**Today's Progress**  Finally completed the Udacity MyReads Project. Tested it. Cross checked the requirements again and again. All done. Would be submitting tmr.
