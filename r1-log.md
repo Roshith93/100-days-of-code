@@ -305,3 +305,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY72- NOV 19nd 2018
 
 **Today's Progress**  Finally completed the Udacity MyReads Project. Tested it. Cross checked the requirements again and again. All done. Would be submitting tmr.
+
+### DAY73- NOV 20nd 2018
+
+**Today's Progress** Finally submitted the project to Udacity. Eagerly waiting for the response from their side.
