@@ -309,3 +309,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY73- NOV 20nd 2018
 
 **Today's Progress** Finally submitted the project to Udacity. Eagerly waiting for the response from their side.
+
+### DAY74- NOV 21nd 2018
+
+**Today's Progress**  Got the code review from the udacity team early morning. fixed all the bugs which were mentioned. will be submitting soon. #100DaysOfCode
