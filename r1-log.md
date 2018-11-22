@@ -313,3 +313,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY74- NOV 21nd 2018
 
 **Today's Progress**  Got the code review from the udacity team early morning. fixed all the bugs which were mentioned. will be submitting soon. #100DaysOfCode
+
+### DAY75- NOV 22nd 2018
+
+**Today's Progress**  I thought I could submit the project(My Reads) by today. But, getting stuck with some errors while trying to pass the state/props to another component. 
