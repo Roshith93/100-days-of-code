@@ -317,3 +317,19 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY75- NOV 22nd 2018
 
 **Today's Progress**  I thought I could submit the project(My Reads) by today. But, getting stuck with some errors while trying to pass the state/props to another component. 
+
+### DAY76- NOV 24nd 2018
+
+**Today's Progress** Submitted the project and waiting for the review
+
+### DAY77- NOV 25nd 2018
+
+**Today's Progress**  Started React Native. Learned the difference between React and React Native
+
+### DAY78- NOV 26nd 2018
+
+**Today's Progress** Tried executing the basics of React Native, Nested some components and explored little more
+
+### DAY79- NOV 27nd 2018
+
+**Today's Progress** Started doing the project from Udacity which is called Udacifitness.
