@@ -333,3 +333,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY79- NOV 27nd 2018
 
 **Today's Progress** Started doing the project from Udacity which is called Udacifitness.
+
+### DAY80- NOV 29nd 2018
+
+**Today's Progress**  Learned about the async storage. Learned how to store the state in localstorage.
