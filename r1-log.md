@@ -334,6 +334,10 @@ passing props into a stateless function, passin array as an props, how to use de
 
 **Today's Progress** Started doing the project from Udacity which is called Udacifitness.
 
-### DAY80- NOV 29nd 2018
+### DAY80- NOV 28nd 2018
 
 **Today's Progress**  Learned about the async storage. Learned how to store the state in localstorage.
+
+### DAY81- NOV 29nd 2018
+
+**Today's Progress** Learned about the setting up the environment for react native. Installed Android studio and Jde. Created SDK and ran an a basic app using the emulator. Setting up the env was very hard and it took a lot of time.
