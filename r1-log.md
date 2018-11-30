@@ -341,3 +341,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY81- NOV 29nd 2018
 
 **Today's Progress** Learned about the setting up the environment for react native. Installed Android studio and Jde. Created SDK and ran an a basic app using the emulator. Setting up the env was very hard and it took a lot of time.
+
+### DAY82- NOV 30nd 2018
+
+**Today's Progress** Created a blueprint for building a react native mobile flashcard app. Clearly understood the requirements of that and will be starting by tomorrow
