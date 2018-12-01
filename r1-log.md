@@ -345,3 +345,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY82- NOV 30nd 2018
 
 **Today's Progress** Created a blueprint for building a react native mobile flashcard app. Clearly understood the requirements of that and will be starting by tomorrow
+
+### DAY83- DEC 1nd 2018
+
+**Today's Progress** Started doing the react native project. Split the app into components, created the state, views etc..
