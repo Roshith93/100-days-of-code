@@ -349,3 +349,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY83- DEC 1nd 2018
 
 **Today's Progress** Started doing the react native project. Split the app into components, created the state, views etc..
+
+### DAY84- DEC 2nd 2018
+
+**Today's Progress** Started learning redux for implementing it in the mobile flashcard App.
