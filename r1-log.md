@@ -353,3 +353,11 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY84- DEC 2nd 2018
 
 **Today's Progress** Started learning redux for implementing it in the mobile flashcard App.
+
+### DAY85- DEC 3nd 2018
+
+**Today's Progress** Learned the basic redux things such as actions, reducers and store. 
+
+### DAY86- DEC 4nd 2018
+
+**Today's Progress** Explored more about the redux.
