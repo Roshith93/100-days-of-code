@@ -361,3 +361,7 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY86- DEC 4nd 2018
 
 **Today's Progress** Explored more about the redux.
+
+### DAY87- DEC 5nd 2018
+
+**Today's Progress** Debugging in react native found hard comparing with the react. Its taking too much time to compile the code show the result using Expo.
