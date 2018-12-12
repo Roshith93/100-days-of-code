@@ -373,3 +373,20 @@ passing props into a stateless function, passin array as an props, how to use de
 ### DAY89- DEC 7nd 2018
 
 **Today's Progress** Wrote Redux actions and reducers  
+
+### DAY90- DEC 9nd 2018 
+
+**Today's Progress** Project is about to complete and final corrections going on.
+
+### DAY90- DEC 10th 2018
+
+**Today's Progress**  Submitted the project. Waiting for the approval.
+
+### DAY90- DEC 11th 2018
+
+**Today's Progress** Got the review. Doing the bug fixes.
+
+### DAY91- DEC 12th 2018
+
+**Today's Progress** started learning redux deeply. came to know about the relation between store , actions, reducers and dispatchers.
+
