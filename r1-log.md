@@ -390,3 +390,9 @@ passing props into a stateless function, passin array as an props, how to use de
 
 **Today's Progress** started learning redux deeply. came to know about the relation between store , actions, reducers and dispatchers.
 
+### DAY94- DEC 13th 2018 
+
+**Today's Progress** created a todo basic app using redux. Have to implement it using redux.
+
+
+
