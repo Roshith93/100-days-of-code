@@ -394,5 +394,13 @@ passing props into a stateless function, passin array as an props, how to use de
 
 **Today's Progress** created a todo basic app using redux. Have to implement it using redux.
 
+### DAY96- DEC 14th 2018 
+
+**Today's Progress** mapStateToProps in react is little hard to understand. working on it
+
+### DAY97- DEC 15th 2018 
+
+**Today's Progress** Started working on Brad Traversies React-Redux 1 hr tutorial. Will be completing it by tomorrow.
+
 
 
