@@ -402,13 +402,16 @@ passing props into a stateless function, passin array as an props, how to use de
 
 **Today's Progress** Started working on Brad Traversies React-Redux 1 hr tutorial. Will be completing it by tomorrow.
 
-### DAY98- DEC 15th 2018 
+### DAY98- DEC 16th 2018 
 
 **Today's Progress** Learned about the redux, folder structure for putting the store, actions, reducers etc
 
-### DAY99- DEC 15th 2018 
+### DAY99- DEC 17th 2018 
 
 **Today's Progress** Finally completed the Brad's React with redux successfully. Still, need more hands-on on redux to make it more comfortable. 
 Nd tmr is the last day of @_100DaysOfCode . This really helped me to learn a lot
 
+### DAY100- DEC 18th 2018 
+
+**Today's Progress**  { Day 100 } It has been an amazing experience on completing the #100DaysOfCode challenges .The results have led me to take a resolution to go for the #301DaysOfCode  of coding, which I will be starting from 2019 Day 1. Thank You all for your love and support. 😍🙂
 
