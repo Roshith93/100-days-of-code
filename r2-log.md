@@ -11,3 +11,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Tuesday, 2019].
 ### DAY2 - JAN 2st 2019
 
 **Today's Progress** - Continued react challenges from FCC. Would be completing it by tomorrow
+
+### DAY3 - JAN 3rd 2019
+
+**Today's Progress** - Completed the entire challenges of React-js from FCC. 
