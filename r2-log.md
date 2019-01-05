@@ -19,3 +19,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Tuesday, 2019].
 ### DAY4 - JAN 4rd 2019
 
 **Today's Progress** - Tried fixing the issue from one of the react-redux project. I got no output for the day. But I am sure that I did something.
+
+### DAY5 - JAN 5rd 2019
+
+**Today's Progress** - Started a todo app with redux, from brad traversy
