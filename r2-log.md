@@ -23,3 +23,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Tuesday, 2019].
 ### DAY5 - JAN 5rd 2019
 
 **Today's Progress** - Started a todo app with redux, from brad traversy
+
+### DAY6 - JAN 6rd 2019
+
+**Today's Progress** - Completed a simple todo app with React. Have to add designs.
