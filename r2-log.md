@@ -27,3 +27,8 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Tuesday, 2019].
 ### DAY6 - JAN 6rd 2019
 
 **Today's Progress** - Completed a simple todo app with React. Have to add designs.
+
+### DAY7 - JAN 7rd 2019
+
+**Today's Progress** - Started studying node js. Understood how to write data to a file. 
+```writeFileSync(path, data)```
