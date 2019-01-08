@@ -32,3 +32,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Tuesday, 2019].
 
 **Today's Progress** - Started studying node js. Understood how to write data to a file. 
 ```writeFileSync(path, data)```
+
+### DAY8 - JAN 8rd 2019
+
+**Today's Progress** - Refereshed array filter methods for interview preparation. 
