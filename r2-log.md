@@ -36,3 +36,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Tuesday, 2019].
 ### DAY8 - JAN 8rd 2019
 
 **Today's Progress** - Refereshed array filter methods for interview preparation. 
+
+### DAY9-10 - JAN 8rd 2019
+
+**Today's Progress** Doing a burger builder app by Maxmillian from udemy. 
