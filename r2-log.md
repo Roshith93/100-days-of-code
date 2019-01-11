@@ -37,6 +37,10 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Tuesday, 2019].
 
 **Today's Progress** - Refereshed array filter methods for interview preparation. 
 
-### DAY9-10 - JAN 8rd 2019
+### DAY9-10 - JAN 9-10rd 2019
 
 **Today's Progress** Doing a burger builder app by Maxmillian from udemy. 
+
+### DAY11 - JAN 11rd 2019
+
+**Today's Progress** Learned how to convert objects into array using Object.keys() and using .map() to print it out.
