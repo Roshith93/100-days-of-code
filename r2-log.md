@@ -44,3 +44,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Tuesday, 2019].
 ### DAY11 - JAN 11rd 2019
 
 **Today's Progress** Learned how to convert objects into array using Object.keys() and using .map() to print it out.
+
+### DAY12 - JAN 12rd 2019
+
+**Today's Progress** Did Redux challenges from FCC. Soon gonna completed the remaining challenges.
