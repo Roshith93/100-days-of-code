@@ -48,3 +48,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Tuesday, 2019].
 ### DAY12 - JAN 12rd 2019
 
 **Today's Progress** Did Redux challenges from FCC. Soon gonna completed the remaining challenges.
+
+### DAY13 - JAN 13rd 2019
+
+**Today's Progress** Refreshed the react-redux by taking user details and displaying it.
