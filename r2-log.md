@@ -52,3 +52,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Tuesday, 2019].
 ### DAY13 - JAN 13rd 2019
 
 **Today's Progress** Refreshed the react-redux by taking user details and displaying it.
+
+### DAY14/15 - JAN 13/14rd 2019
+
+**Today's Progress** Did a simple counter app with react - redux  material ui
