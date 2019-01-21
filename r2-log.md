@@ -60,3 +60,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Tuesday, 2019].
 ### DAY17/18 - JAN 17/18 2019
 
 **Today's Progress** As a part of new project, started learning Mobx. Still more to go..
+
+### DAY19/20/21 - JAN 19/80/21 2019
+
+**Today's Progress** Was learning mobx in detail with and without decorators . Also learning to do do async functions.
