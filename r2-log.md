@@ -64,3 +64,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Tuesday, 2019].
 ### DAY19/20/21 - JAN 19/80/21 2019
 
 **Today's Progress** Was learning mobx in detail with and without decorators . Also learning to do do async functions.
+
+### DAY22/23/24 - JAN 22/23/24 2019
+
+**Today's Progress** Done filter for the datas in a list of user details. Wokring on the weather app with restful API.
