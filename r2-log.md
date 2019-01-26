@@ -68,3 +68,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Tuesday, 2019].
 ### DAY22/23/24 - JAN 22/23/24 2019
 
 **Today's Progress** Done filter for the datas in a list of user details. Wokring on the weather app with restful API.
+
+### DAY 25 - JAN 25 2019
+
+**Today's Progress** - Working on the weather app with restful api which was posted on FCC youtube channel.
+
+### DAY 26 - JAN 25 2019
+
+**Today's Progreess** - Doing a burger builder a react app. Doing the state management and build controls right now. Splitting the app into components is one of the most challenging thing in React js.
