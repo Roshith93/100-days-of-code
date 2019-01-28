@@ -80,3 +80,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Tuesday, 2019].
 ### DAY 27 - JAN 27 2019
 
 **Today's Progreess** - Working on the order page of Burger Builder app. Learned how to convert an object into an array, to map over the elements.
+
+### DAY 28 - JAN 28 2019
+
+**Today's Progreess** Created the reusable modal and buttons for order confirmation in the burger builder react app.
