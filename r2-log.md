@@ -84,3 +84,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Tuesday, 2019].
 ### DAY 28 - JAN 28 2019
 
 **Today's Progreess** Created the reusable modal and buttons for order confirmation in the burger builder react app.
+
+### DAY 29 - JAN 29 2019
+
+**Today's Progreess** Created a fake api using json-server.Its too easy to create all kind of http methods.
