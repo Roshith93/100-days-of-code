@@ -7,3 +7,7 @@ The log of my #100DaysOfCode challenge. Started on [September 17st, Thrusday, 20
 ### DAY1 - SEP 17th 2020
 
 **Today's Progress** - Started learning DOM and its method like getElementById.
+
+### DAY2 - SEP 19th 2020
+
+**Today's Progress** - Learned about Function Factories and Function Constructors
