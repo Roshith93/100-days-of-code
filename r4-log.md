@@ -15,3 +15,7 @@ The log of my #100DaysOfCode challenge. Started on [October 1st, Thrusday, 2020]
 ### DAY3 - OCT 3rd 2020
 
 **Today's Progress** - Learned about callbacks.
+
+### DAY4 - OCT 5rd 2020
+
+**Today's Progress** - Learned about Promises.
