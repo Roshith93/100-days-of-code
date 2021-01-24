@@ -16,3 +16,6 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 
 **Today's Progress** - Learned about Class. its methods and constructor
 
+### DAY4 - JAN 24th 2021
+
+**Today's Progress** - Learned about Optional Chaining '?.'. It is safest way to access object properties even if the intermediate property doesnt' exist. 
