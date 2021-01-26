@@ -19,3 +19,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY4 - JAN 24th 2021
 
 **Today's Progress** - Learned about Optional Chaining '?.'. It is safest way to access object properties even if the intermediate property doesnt' exist. 
+
+### DAY5 - JAN 25th 2021
+
+**Today's Progress** - Learned about Promises. Its different methods like Promise.all, Promise.allSettled, Promise.any and Promise.race
