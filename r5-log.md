@@ -23,3 +23,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY5 - JAN 25th 2021
 
 **Today's Progress** - Learned about Promises. Its different methods like Promise.all, Promise.allSettled, Promise.any and Promise.race
+
+### DAY6 - JAN 26th 2021
+
+**Today's Progress** - Did some execrises with promise.all
