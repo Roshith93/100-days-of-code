@@ -27,3 +27,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY6 - JAN 26th 2021
 
 **Today's Progress** - Did some execrises with promise.all
+
+### DAY7 - JAN 27th 2021
+
+**Today's Progress** -Was doing a project which covers every advanced topics of Javascript. I progressed for some days, but when moving further, I am not able to do much progress. I feel, I need to learn more before continuing this large task. 
