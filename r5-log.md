@@ -35,3 +35,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY8 - JAN 28th 2021
 
 **Today's Progress** - Learned DOM node like createELement and textContent , innerHTML
+
+### DAY9 - JAN 29th 2021
+
+**Today's Progress** - Learned DOM methods like remove(), removeChild(), appendChild(), insertBefore(), prepend().
