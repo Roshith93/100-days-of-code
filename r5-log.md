@@ -40,6 +40,10 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 
 **Today's Progress** - Learned DOM methods like remove(), removeChild(), appendChild(), insertBefore(), prepend().
 
-### DAY9 - JAN 29th 2021
+### DAY10 - JAN 31th 2021
 
 **Today's Progress** - Learned of how to add style to an element from js using style property. Using classList is better when we want to add more property at a time
+
+### DAY11 - FEB 2nd 2021
+
+**Today's Progress** - Learned about the DOM events in Javascript. Also learned about the difference b/n eventHandler and addEventListener.
