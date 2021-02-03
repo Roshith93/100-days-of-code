@@ -47,3 +47,6 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY11 - FEB 2nd 2021
 
 **Today's Progress** - Learned about the DOM events in Javascript. Also learned about the difference b/n eventHandler and addEventListener.
+### DAY12 - FEB 3rd 2021
+
+**Today's Progress** - Covered Mouse events, keyboard events, form events from Javascript.
