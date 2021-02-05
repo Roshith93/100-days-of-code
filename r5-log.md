@@ -50,3 +50,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY12 - FEB 3rd 2021
 
 **Today's Progress** - Covered Mouse events, keyboard events, form events from Javascript.
+
+### DAY13 - FEB 4rd 2021
+
+**Today's Progress** - Learned currentTarget which refers to the element to which event handler is attached with target is which the element that triggered the event
+
+### DAY14 - FEB 5rd 2021
+
+**Today's Progress** - Learned event propagation and event delegation
