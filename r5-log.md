@@ -58,3 +58,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY14 - FEB 5rd 2021
 
 **Today's Progress** - Learned event propagation and event delegation
+
+### DAY15 - FEB 6th 2021
+
+**Today's Progress** -Covered most of the topic from DOM. Will be doing DOM projects soon.
