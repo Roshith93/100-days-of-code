@@ -62,3 +62,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY15 - FEB 6th 2021
 
 **Today's Progress** -Covered most of the topic from DOM. Will be doing DOM projects soon.
+
+### DAY16 - FEB 8th 2021
+
+**Today's Progress** started doing DOM projects. Did an app which changes background color on click of a button using vanilla js.
