@@ -74,3 +74,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY18 - FEB 10th 2021
 
 **Today's Progress** Used JS to do a reviews section, in which we can swipe to prev and next
+
+### DAY19 - FEB 11th 2021
+
+**Today's Progress** Did a project on DOM traversing.
