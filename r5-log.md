@@ -78,3 +78,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY19 - FEB 11th 2021
 
 **Today's Progress** Did a project on DOM traversing.
+
+### DAY20 - FEB 12th 2021
+
+**Today's Progress** Continued learning DOM events
+
+### DAY21 - FEB 13th 2021
+
+**Today's Progress** Did a small project for my friend with CSS animations and keyframes.
