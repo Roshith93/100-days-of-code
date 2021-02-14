@@ -18,7 +18,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 
 ### DAY4 - JAN 24th 2021
 
-**Today's Progress** - Learned about Optional Chaining '?.'. It is safest way to access object properties even if the intermediate property doesnt' exist. 
+**Today's Progress** - Learned about Optional Chaining '?.'. It is safest way to access object properties even if the intermediate property doesnt' exist.
 
 ### DAY5 - JAN 25th 2021
 
@@ -30,7 +30,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 
 ### DAY7 - JAN 27th 2021
 
-**Today's Progress** -Was doing a project which covers every advanced topics of Javascript. I progressed for some days, but when moving further, I am not able to do much progress. I feel, I need to learn more before continuing this large task. 
+**Today's Progress** -Was doing a project which covers every advanced topics of Javascript. I progressed for some days, but when moving further, I am not able to do much progress. I feel, I need to learn more before continuing this large task.
 
 ### DAY8 - JAN 28th 2021
 
@@ -47,6 +47,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY11 - FEB 2nd 2021
 
 **Today's Progress** - Learned about the DOM events in Javascript. Also learned about the difference b/n eventHandler and addEventListener.
+
 ### DAY12 - FEB 3rd 2021
 
 **Today's Progress** - Covered Mouse events, keyboard events, form events from Javascript.
@@ -66,10 +67,10 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY16 - FEB 8th 2021
 
 **Today's Progress** started doing DOM projects. Did an app which changes background color on click of a button using vanilla js.
+
 ### DAY17 - FEB 9th 2021
 
 **Today's Progress** Used JS to do a reviews section, in which we can swipe to prev and next
-
 
 ### DAY18 - FEB 10th 2021
 
@@ -86,3 +87,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY21 - FEB 13th 2021
 
 **Today's Progress** Did a small project for my friend with CSS animations and keyframes.
+
+### DAY22 - FEB 14th 2021
+
+**Today's Progress** Started a small react project to refresh my skill on React. User can Sign in, Sign up, Create a project etc are the features
