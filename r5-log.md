@@ -91,3 +91,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY22 - FEB 14th 2021
 
 **Today's Progress** Started a small react project to refresh my skill on React. User can Sign in, Sign up, Create a project etc are the features
+
+### DAY23 - FEB 15th 2021
+
+**Today's Progress** Continued the React project. Added redux and implemented it on sign and signup page. added thunk to fetch data.added async-await to api call
