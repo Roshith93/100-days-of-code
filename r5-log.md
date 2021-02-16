@@ -95,3 +95,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY23 - FEB 15th 2021
 
 **Today's Progress** Continued the React project. Added redux and implemented it on sign and signup page. added thunk to fetch data.added async-await to api call
+
+### DAY24 - FEB 16th 2021
+
+**Today's Progress** Continued the Project. Added project details page, project summary page. Authentication left.
