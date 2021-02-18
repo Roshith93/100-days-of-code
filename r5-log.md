@@ -103,3 +103,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY25 - FEB 17th 2021
 
 **Today's Progress** Continued the React-redux project. Enabled Sign in and Logout functionallity. Working on Redirect the page, when user visits inappropriate endpoints
+
+### DAY26 - FEB 18th 2021
+
+**Today's Progress** Couldn't do much today.. But still did some CSS flex related designs for my friends company.
