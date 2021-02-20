@@ -107,3 +107,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY26 - FEB 18th 2021
 
 **Today's Progress** Couldn't do much today.. But still did some CSS flex related designs for my friends company.
+
+### DAY27 - FEB 20th 2021
+
+**Today's Progress** Continued the react redux project. Added Sign up functionalitty with firebase.
