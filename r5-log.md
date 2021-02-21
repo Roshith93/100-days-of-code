@@ -111,3 +111,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY27 - FEB 20th 2021
 
 **Today's Progress** Continued the react redux project. Added Sign up functionality with firebase.
+
+### DAY28 - FEB 21th 2021
+
+**Today's Progress** Completed the react redux project with firebase. Will be starting soon a e-commerce website using (MERN) stack.
