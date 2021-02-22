@@ -115,3 +115,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY28 - FEB 21th 2021
 
 **Today's Progress** Completed the react redux project with firebase. Will be starting soon a e-commerce website using (MERN) stack.
+
+### DAY29 - FEB 22th 2021
+
+**Today's Progress** Did a landing page for my friends company in React js
