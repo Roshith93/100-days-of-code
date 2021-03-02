@@ -119,3 +119,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY29 - FEB 22th 2021
 
 **Today's Progress** Did a landing page for my friends company in React js
+
+### DAY29/30 - FEB 23 & 24 2021
+
+**Today's Progress** Completed landing page for friends company. inplemented email sending services
+
+### DAY31-32 FEB 25 & 26 2021
+
+**Today's Progress** Learned about typescript and wrote some code for another internal project
