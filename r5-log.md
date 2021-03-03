@@ -127,3 +127,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY31-32 FEB 25 & 26 2021
 
 **Today's Progress** Learned about typescript and wrote some code for another internal project
+
+### DAY33-34 MAR 01 & 02 2021
+
+**Today's Progress** Implementing Typescript with React on the new project.
