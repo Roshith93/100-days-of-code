@@ -135,3 +135,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1st, Thrusday, 2020]
 ### DAY35-36 MAR 03 & 04 2021
 
 **Today's Progress** Continuing the react application using Typescript. Getting compilation errors just because of TS. Need to learn that more to better implementations
+
+### DAY37-38 MAR 05 & 06 2021
+
+**Today's Progress**  Continued on the react project
+
+### DAY39-40 MAR 07 & 08 2021
+
+**Today's Progress**  Continued on the React project.
